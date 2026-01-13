@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "FACT",
+  "base_artist": "常闇トワ",
+  "createdAt": "2026-01-13T20:02:01.038305Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Barricade (Matter of Fact)",
+      "artist": "Yumi Zouma",
+      "has_synced": true,
+      "path": "select/01_Barricade_(Matter_of_Fact)_Yumi_Zouma.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Brutality of Fact",
+      "artist": "Howard Jones",
+      "has_synced": false,
+      "path": "select/02_Brutality_of_Fact_Howard_Jones.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Three Fact Fader",
+      "artist": "Engineers",
+      "has_synced": false,
+      "path": "select/03_Three_Fact_Fader_Engineers.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fact of Life",
+      "artist": "Poi Dog Pondering",
+      "has_synced": false,
+      "path": "select/04_Fact_of_Life_Poi_Dog_Pondering.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cold, Hard Fact",
+      "artist": "Overkill",
+      "has_synced": false,
+      "path": "select/05_Cold,_Hard_Fact_Overkill.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Matter of Fact",
+      "artist": "John Maus",
+      "has_synced": true,
+      "path": "select/06_Matter_of_Fact_John_Maus.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fact and Friction",
+      "artist": "The Nearly Deads",
+      "has_synced": true,
+      "path": "select/07_Fact_and_Friction_The_Nearly_Deads.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Fact Remains",
+      "artist": "Juliana Hatfield",
+      "has_synced": true,
+      "path": "select/08_The_Fact_Remains_Juliana_Hatfield.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It's a Fact",
+      "artist": "The Vandals",
+      "has_synced": false,
+      "path": "select/09_It's_a_Fact_The_Vandals.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fact 67",
+      "artist": "The Brian Jonestown Massacre",
+      "has_synced": true,
+      "path": "select/10_Fact_67_The_Brian_Jonestown_Massacre.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Outliars and Hyppocrates: a fun fact about apples",
+      "artist": "Will Wood",
+      "has_synced": true,
+      "path": "select/11_Outliars_and_Hyppocrates__a_fun_fact_about_apples_Will_Wood.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "In Fact",
+      "artist": "They Might Be Giants",
+      "has_synced": true,
+      "path": "select/12_In_Fact_They_Might_Be_Giants.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "That's a Fact",
+      "artist": "Status Quo",
+      "has_synced": true,
+      "path": "select/13_That's_a_Fact_Status_Quo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "That's A Fact (Acoustic Version)",
+      "artist": "Status Quo",
+      "has_synced": true,
+      "path": "select/14_That's_A_Fact_(Acoustic_Version)_Status_Quo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "As A Matter Of Fact",
+      "artist": "Natalie Cole",
+      "has_synced": false,
+      "path": "select/15_As_A_Matter_Of_Fact_Natalie_Cole.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Fact Is (I Need You)",
+      "artist": "Jill Scott",
+      "has_synced": true,
+      "path": "select/16_The_Fact_Is_(I_Need_You)_Jill_Scott.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Fact Is (I Need You) (Live In Paris)",
+      "artist": "Jill Scott",
+      "has_synced": false,
+      "path": "select/17_The_Fact_Is_(I_Need_You)_(Live_In_Paris)_Jill_Scott.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FACT",
+      "artist": "常闇トワ",
+      "has_synced": false,
+      "path": "select/pl_01_FACT_常闇トワ.txt"
+    }
+  ]
+}
